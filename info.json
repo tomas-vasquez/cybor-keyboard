@@ -1,0 +1,19 @@
+{
+    "keyboard_name": "mi_teclado_dividido_4x5",
+    "manufacturer": "mi_fabricante",
+    "usb": {
+        "vid": "0xABCD",
+        "pid": "0x1234",
+        "device_version": "1.0.0"
+    },
+    "layouts": {
+        "default": {
+            "layout": [
+                "Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P",
+                "A", "S", "D", "F", "G", "H", "J", "K", "L", ";",
+                "Z", "X", "C", "V", "B", "N", "M", ",", ".", "/",
+                "1", "2", "3", "4", "5", "6", "7", "8", "9", "0"
+            ]
+        }
+    }
+}
